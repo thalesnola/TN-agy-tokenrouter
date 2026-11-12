@@ -1,0 +1,17 @@
+# Ambientes Python e caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+*.egg-info/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+
+# Logs
+*.log

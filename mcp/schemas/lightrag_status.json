@@ -1,0 +1,1 @@
+{"name":"lightrag_status","description":"Check LightRAG server status and health on local port 9621.","parameters":{"properties":{},"title":"lightrag_statusArguments","type":"object"}}
